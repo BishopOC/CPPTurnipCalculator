@@ -21,6 +21,7 @@ int main() {
     int current_total = current_price_per_turnip * turnips_bought;
 
     cout << "Your profit is: " << current_total - initial_cost << endl;
+    cout << "You can do better" << endl;
 
 
     return 0;
